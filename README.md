@@ -1,5 +1,5 @@
 # array_transpose
-perform transposition in multidimensional arrays, ie
+performs transposition in multidimensional arrays, ie
 
  turns this
 
